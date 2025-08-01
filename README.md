@@ -2,7 +2,7 @@
 
 🚀 **リアルタイム監視ダッシュボード** - Raspberry Pi のシステム状況と Claude Code の使用量を同時に監視
 
-![License: GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Platform: Linux](https://img.shields.io/badge/Platform-Linux-green.svg)
 ![Shell: Bash](https://img.shields.io/badge/Shell-Bash-orange.svg)
 
@@ -158,18 +158,9 @@ ls /tmp/claude_usage_* /tmp/session_msgs_*
 4. **Push** to branch (`git push origin feature/amazing-feature`)
 5. **Pull Request** を作成
 
-## 📋 TODO / 今後の予定
-
-- [ ] Web UI版の開発
-- [ ] より多くのシステム統計情報の追加
-- [ ] 設定ファイル対応
-- [ ] ログ出力機能
-- [ ] Docker対応
-- [ ]他のSBC（Single Board Computer）対応
-
 ## 📄 ライセンス
 
-このプロジェクトは **MIT License** の下で公開されています。詳細は [LICENSE](LICENSE) ファイルを参照してください。
+このプロジェクトは **GPL-3.0 License** の下で公開されています。詳細は [LICENSE](LICENSE) ファイルを参照してください。
 
 ## 🙏 謝辞
 
@@ -178,7 +169,7 @@ ls /tmp/claude_usage_* /tmp/session_msgs_*
 
 ## 📞 サポート
 
-問題や質問がありましたら、[Issues](https://github.com/yourusername/raspberry-pi-claude-monitor/issues) にて報告してください。
+問題や質問がありましたら、[Issues](https://github.com/yourusername/claude-pi-monitor/issues) にて報告してください。
 
 ---
 
