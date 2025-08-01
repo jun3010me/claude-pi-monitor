@@ -2,7 +2,7 @@
 
 🚀 **リアルタイム監視ダッシュボード** - Raspberry Pi のシステム状況と Claude Code の使用量を同時に監視
 
-![License: GPL-3.0](https://img.shields.io/badge/License-MIT-blue.svg)
+![License: GPL-3.0](ttps://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Platform: Linux](https://img.shields.io/badge/Platform-Linux-green.svg)
 ![Shell: Bash](https://img.shields.io/badge/Shell-Bash-orange.svg)
 
